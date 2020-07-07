@@ -1,0 +1,16 @@
+PODS:
+  - MTDemo (0.1.0)
+
+DEPENDENCIES:
+  - MTDemo (from `../`)
+
+EXTERNAL SOURCES:
+  MTDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MTDemo: d5cf12f2e58c0db52096ba96e389332c25d89ca5
+
+PODFILE CHECKSUM: 85dc188fbefe32cbe55cd2a2efef8fef58451c18
+
+COCOAPODS: 1.9.3

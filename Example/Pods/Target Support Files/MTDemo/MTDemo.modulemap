@@ -1,0 +1,6 @@
+framework module MTDemo {
+  umbrella header "MTDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

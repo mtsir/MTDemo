@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 MTDemo 是一个测试库，包含分类
                        DESC
 
-  s.homepage         = 'https://github.com/ext.mengtao/MTDemo'
+  s.homepage         = 'https://github.com/mtsir/MTDemo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ext.mengtao' => 'ext.mengtao@jd.com' }
-  s.source           = { :git => 'https://github.com/ext.mengtao/MTDemo.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/mtsir/MTDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
