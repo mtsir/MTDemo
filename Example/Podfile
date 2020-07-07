@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MTDemo_Example' do
+  pod 'MTDemo', :path => '../'
+
+  target 'MTDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
